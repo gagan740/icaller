@@ -1,0 +1,22 @@
+{
+  "name": "icallerapp",
+  "version": "1.0.0",
+  "description": "demoapp",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gagan740/icaller.git"
+  },
+  "author": "Gagan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gagan740/icaller/issues"
+  },
+  "homepage": "https://github.com/gagan740/icaller#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
